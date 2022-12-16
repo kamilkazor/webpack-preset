@@ -1,3 +1,3 @@
 # webpack-preset
 
-Basic webpack preset with typescript, sass and postcss
+Basic webpack preset with typescript, sass and postcss.
